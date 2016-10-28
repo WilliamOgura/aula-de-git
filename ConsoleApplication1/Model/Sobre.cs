@@ -8,5 +8,6 @@ namespace ConsoleApplication1.Model
 {
     class Sobre
     {
+        public int SobreAMesa { get; set; }
     }
 }
