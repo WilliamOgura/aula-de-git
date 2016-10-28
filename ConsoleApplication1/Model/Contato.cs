@@ -8,7 +8,11 @@ namespace ConsoleApplication1.Model
 {
     class Contato
     {
+
         public int NumeroTel { get; set; }
+
+
+        public int Ddd { get; set; }
 
     }
 }
